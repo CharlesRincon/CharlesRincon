@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🎮 Sebastian Rincón - Game Developer  
+🚀 Passionate about creating interactive experiences with Unity  
 
-<!--
-**CharlesRincon/CharlesRincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 🎓 **Multimedia Engineering Student**  
+- 🕹️ **Game Developer** with experience in Unity and game mechanics design  
+- 🌱 Interested in **performance optimization**, **game AI**, and **level design**  
+- 🛠️ Currently working on **personal projects** and expanding my portfolio
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
